@@ -5,6 +5,7 @@
 目的
 　NNのデータの準備から結果の出し方まで理解し、実際に実装できるようにする
  　
+
 やり方　
 　https://docs.pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
 　以上のサイトを参考にする。具体的な手法は後日追加する
