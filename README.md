@@ -8,7 +8,8 @@
 
 やり方　
 　https://docs.pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
-　以上のサイトを参考にする。具体的な手法は後日追加する
+　
+  以上のサイトを参考にする。具体的な手法は後日追加する
 
 結果
 　10回学習を進め精度が70%のAIを作成した。
