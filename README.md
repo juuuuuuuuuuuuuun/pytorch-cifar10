@@ -19,7 +19,7 @@
 　NNの学習の全体的な流れが把握できた。
 
  ## 結果
-test_Accuracy1.png
-train_loss1.png
+<img width="584" height="455" alt="train_loss1" src="https://github.com/user-attachments/assets/772af216-2dba-4bb3-954c-394b94bd1bf8" />
+<img width="562" height="455" alt="test_Accuracy1" src="https://github.com/user-attachments/assets/ec2a25c4-c1b2-4b2f-b7f1-e38d5b74316f" />
 
   
