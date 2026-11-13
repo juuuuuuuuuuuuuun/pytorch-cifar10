@@ -19,5 +19,7 @@
 　NNの学習の全体的な流れが把握できた。
 
  ## 結果
+test_Accuracy1.png
+train_loss1.png
 
   
