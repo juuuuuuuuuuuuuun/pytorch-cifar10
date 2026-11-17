@@ -28,6 +28,6 @@
 <img width="563" height="455" alt="test_Accuracy2" src="https://github.com/user-attachments/assets/c4bc5327-8497-43fd-bd76-8631dbfd6fd9" />
 
  ### 考察
-　以前と比べて非常に高い精度を出すことができた
+　以前と比べて非常に高い精度と安定性を出すことができた
 
   
