@@ -34,6 +34,7 @@
 <img width="562" height="455" alt="test_Accuracy3" src="https://github.com/user-attachments/assets/3ebb1c18-6b76-4ad5-aff7-a1708bd506d8" />
  ### 考察
 　以前と比べて非常に高い精度と安定性を出すことができた
+ 　しかし、10エポックと30エポックでは3%ほどしか差がなかった。これよりエポックを増やすことでの精度向上は頭打ちになってきた
 
  <img width="948" height="493" alt="結果" src="https://github.com/user-attachments/assets/b35b6679-8ad7-4263-bab1-b83508665a8a" />
 
