@@ -27,6 +27,9 @@
  <img width="567" height="455" alt="train_loss2" src="https://github.com/user-attachments/assets/26733dd6-cd43-47a6-b319-0423a88fb4f8" />
 <img width="563" height="455" alt="test_Accuracy2" src="https://github.com/user-attachments/assets/c4bc5327-8497-43fd-bd76-8631dbfd6fd9" />
 11/20　10エポックを30エポックにして再度学習を進め精度を確かめた。
+### 結果
+　<img width="584" height="455" alt="train_loss3" src="https://github.com/user-attachments/assets/64f1e0a3-ea6a-4959-8e9e-ef35ce72fae4" />
+<img width="562" height="455" alt="test_Accuracy3" src="https://github.com/user-attachments/assets/3ebb1c18-6b76-4ad5-aff7-a1708bd506d8" />
  ### 考察
 　以前と比べて非常に高い精度と安定性を出すことができた
 
@@ -36,7 +39,7 @@
 |---|---:|---:|---:|
 | MLP（全結合） | 45.3% | 46.6%（8エポック目） | 1.58 → 1.39 |
 | CNN | 73.8% | 73.8%（10エポック目） | 1.54 → 0.87 |
-
+| CNN（エポック延長30回） | 76.8% | 77.5% | 0.88 → 0.71 |
 
 
   
