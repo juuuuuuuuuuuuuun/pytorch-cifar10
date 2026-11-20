@@ -26,7 +26,7 @@
  ### 結果
  <img width="567" height="455" alt="train_loss2" src="https://github.com/user-attachments/assets/26733dd6-cd43-47a6-b319-0423a88fb4f8" />
 <img width="563" height="455" alt="test_Accuracy2" src="https://github.com/user-attachments/assets/c4bc5327-8497-43fd-bd76-8631dbfd6fd9" />
-
+11/20　10エポックを30エポックにして再度学習を進め精度を確かめた。
  ### 考察
 　以前と比べて非常に高い精度と安定性を出すことができた
 
